@@ -4,7 +4,7 @@
 - My interests include shell scripting, Linux, computer security
 - Linux Desktop user
 - Privacy advocate (the irony)
-- I like to learn new things by tincker and experiment with different hardware/software 
+- I like to learn new things by tinckering and experimenting with different hardware/software 
 
 
 
